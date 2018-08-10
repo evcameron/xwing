@@ -1740,12 +1740,6 @@ exportObj.basicCardData = ->
                 "Title"
                 "Illicit"
             ]
-            ship_override:
-                actions: [
-                    "Calculate"
-                    "Target Lock"
-                    "Rotate Arc"
-                ]
         }
         {
             name: "Wild Space Fringer"
@@ -2106,12 +2100,6 @@ exportObj.basicCardData = ->
                 "Turret"
                 "Title"
             ]
-            ship_override:
-                actions: [
-                    "Calculate"
-                    "Target Lock"
-                    "Reinforce"
-                ]
         }
         {
             name: "Lothal Rebel"
@@ -2599,12 +2587,6 @@ exportObj.basicCardData = ->
                 "Modification"
                 "Title"
             ]
-            ship_override:
-                actions: [
-                    "Calculate"
-                    "Target Lock"
-                    "Rotate Arc"
-                ]
         }
         {
             name: "Freighter Captain"
@@ -2666,11 +2648,6 @@ exportObj.basicCardData = ->
                 "Crew"
                 "Modification"
               ]
-            ship_override:
-                actions: [
-                    "Calculate"
-                    "Barrel Roll"
-                ]
         }
         {
             name: "Autopilot Drone"
@@ -2683,12 +2660,6 @@ exportObj.basicCardData = ->
             points: 12
             slots: [
             ]
-            ship_override:
-                actions: [
-                    "Calculate"
-                    "Barrel Roll"
-                ]
-
         }
         {
             name: "Fenn Rau (Fang Fighter)"
@@ -2894,13 +2865,6 @@ exportObj.basicCardData = ->
                 "Modification"
                 "Title"
               ]
-            ship_override:
-                actions: [
-                    "Calculate"
-                    "Target Lock"
-                    "Jam"
-                ]
-
         }
         {
             name: "Zuckuss"
@@ -3513,15 +3477,6 @@ exportObj.basicCardData = ->
                 "Modification"
                 "Title"
               ]
-            ship_override:
-                actions: [
-                    "Calculate"
-                    "Target Lock"
-                    "Barrel Roll"
-                    "<r>> Calculate</r>"
-                    "Boost"
-                    "<r>> Calculate</r>"
-                ]
         }
         {
             name: "Prince Xizor"
